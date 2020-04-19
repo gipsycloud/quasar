@@ -3,6 +3,7 @@
     <q-route-tab to="/page1" label="One" />
     <q-route-tab to="/page2" label="Two" />
     <q-route-tab to="/page3" label="Three" />
+    <q-route-tab to="/page4" label="Four" />
   </q-tabs>
 </template>
 
